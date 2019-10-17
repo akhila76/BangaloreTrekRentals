@@ -1,0 +1,34 @@
+[
+    {
+        "id": "BAG",
+        "name": "Arpanez40",
+        "price": 105,
+        "image": "/images/bag.jpg",
+        "description": "Our backpacker-designers created this backpack for travelling around the world with peace of mind on trips lasting several days..",
+        "product_url": "http://snipcart-hugo-forestery.netlify.com"
+    },
+    {
+        "id": "PIN",
+        "name": "Explore Ceaselessly Pin Badge",
+        "price": 100,
+        "image": "/images/pin.jpg",
+        "description": "Just",
+        "product_url": "http://snipcart-hugo-forestery.netlify.com"
+    },
+    {
+        "id": "SHOES",
+        "name": "Quechua",
+        "price": 150,
+        "image": "/images/shoes.jpg",
+        "description": "Our backpacker-designers created this backpack for travelling around the world with peace of mind on trips lasting several days..",
+        "product_url": "http://snipcart-hugo-forestery.netlify.com"
+    },
+    {
+        "id": "MORON",
+        "name": "Moron",
+        "price": 10,
+        "image": "/images/ath.jpg",
+        "description": "is 24, feels 35. Only one piece available",
+        "product_url": "http://snipcart-hugo-forestery.netlify.com"
+    }
+]
